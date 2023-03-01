@@ -1,0 +1,1035 @@
+Uri: https://app.groove.cm/groovepages/css/inpage_published.css
+File Name: C:\Downloaded Web Sites\feel-better-today.com\groovepages\css\inpage_published-2.css
+Content Type: text/css
+
+Uri: https://app.groove.cm/groovepages/js/inpage_published.js
+File Name: C:\Downloaded Web Sites\feel-better-today.com\groovepages\js\inpage_published-2.js
+Content Type: application/javascript
+
+Uri: https://assets.grooveapps.com/plugins/navmenu-lib.web.js
+File Name: C:\Downloaded Web Sites\feel-better-today.com\plugins\navmenu-lib.web-2.js
+Content Type: application/javascript
+
+Uri: https://cdn.clkmc.com/cmc.js
+File Name: C:\Downloaded Web Sites\feel-better-today.com\cmc-2.js
+Content Type: application/javascript
+
+Uri: https://feel-better-today.com/alpi3
+File Name: C:\Downloaded Web Sites\feel-better-today.com\alpi3.html
+Content Type: text/html
+
+Uri: https://feel-better-today.com/alpi3.css?v=1.1676572412
+File Name: C:\Downloaded Web Sites\feel-better-today.com\alpi3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amatic+SC:wght@400;700&family=Architects+Daughter&family=Asap:wght@400;700&family=Balsamiq+Sans:wght@400;700&family=Barlow:wght@400;700;900&family=Bebas+Neue&family=Bitter:wght@400;700;900&family=Cabin:wght@400;700&family=Cairo:wght@400;700&family=Cormorant+Garamond:wght@400;700&family=Crimson+Text:wght@400;700&family=Dancing+Script:wght@400;700&family=Fira+Sans:wght@400;700;900&family=Fjalla+One&family=Indie+Flower&family=Josefin+Sans:wght@400;700&family=Lato:wght@400;700;900&family=Libre+Baskerville:wght@400;700&family=Libre+Franklin:wght@400;700;900&family=Lobster&family=Lora:wght@400;700&family=Martel:wght@400;700;900&family=Merriweather:wght@400;700;900&family=Montserrat:wght@400;700;900&family=Mukta:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Noto+Sans+KR:wght@400;700;900&family=Noto+Sans:wght@400;700&family=Noto+Serif:wght@400;700&family=Nunito+Sans:wght@200;300;400;700;900&family=Nunito:wght@300;400;700;900&family=Old+Standard+TT:wght@400;700&family=Open+Sans+Condensed:wght@300;700&family=Open+Sans:wght@300;400;700&family=Oswald:wght@400;700&family=Overpass:wght@400;700;900&family=Oxygen:wght@300;400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Sans:wght@400;700&family=PT+Serif:wght@400;700&family=Pacifico&family=Playfair+Display:wght@400;700;900&family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:wght@400;700;900&family=Roboto+Condensed:wght@400;700&family=Roboto+Slab:wght@400;700;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,400;0,700;1,900&family=Shadows+Into+Light&family=Signika:wght@400;700&family=Slabo+27px&family=Source+Code+Pro:wght@400;700;900&family=Source+Sans+Pro:wght@400;700;900&family=Source+Serif+Pro:wght@400;700;900&family=Tajawal:wght@400;700;900&family=Titillium+Web:wght@400;700;900&family=Ubuntu:wght@400;700&family=Work+Sans:wght@400;700;900&display=swap
+File Name: C:\Downloaded Web Sites\feel-better-today.com\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amatic+SC:wght@400;700&family=Architects+Daughter&family=Asap:wght@400;700&family=Balsamiq+Sans:wght@400;700&family=Barlow:wght@400;700;900&family=Bebas+Neue&family=Bitter:wght@400;700;900&family=Cabin:wght@400;700&family=Cairo:wght@400;700&family=Cormorant+Garamond:wght@400;700&family=Crimson+Text:wght@400;700&family=Dancing+Script:wght@400;700&family=Fira+Sans:wght@400;700;900&family=Fjalla+One&family=Indie+Flower&family=Josefin+Sans:wght@400;700&family=Lato:wght@400;700;900&family=Libre+Baskerville:wght@400;700&family=Libre+Franklin:wght@400;700;900&family=Lobster&family=Lora:wght@400;700&family=Martel:wght@400;700;900&family=Merriweather:wght@400;700;900&family=Montserrat:wght@400;700;900&family=Mukta:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Noto+Sans+KR:wght@400;700;900&family=Noto+Sans:wght@400;700&family=Noto+Serif:wght@400;700&family=Nunito+Sans:wght@200;300;400;700;900&family=Nunito:wght@300;400;700;900&family=Old+Standard+TT:wght@400;700&family=Open+Sans+Condensed:wght@300;700&family=Open+Sans:wght@300;400;700&family=Oswald:wght@400;700&family=Overpass:wght@400;700;900&family=Oxygen:wght@300;400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Sans:wght@400;700&family=PT+Serif:wght@400;700&family=Pacifico&family=Playfair+Display:wght@400;700;900&family=Poppins:ital,wght@0,400;0,700;1,900&family=Raleway:wght@400;700;900&family=Roboto+Condensed:wght@400;700&family=Roboto+Slab:wght@400;700;900&family=Roboto:ital,wght@0,700;0,900;1,400&family=Rubik:ital,wght@0,400;0,700;1,900&family=Shadows+Into+Light&family=Signika:wght@400;700&family=Slabo+27px&family=Source+Code+Pro:wght@400;700;900&family=Source+Sans+Pro:wght@400;700;900&family=Source+Serif+Pro:wght@400;700;900&family=Tajawal:wght@400;700;900&family=Titillium+Web:wght@400;700;900&family=Ubuntu:wght@400;700&family=Work+Sans:wght@400;700;900&display=swap
+File Name: C:\Downloaded Web Sites\feel-better-today.com\css2-5
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchm-A.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\abrilfatface\v19\zOL64pLDlL1D99S8g8PtiKchm-A-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZ3zwprpvBS1izr_vOMscG6eQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\amaticsc\v24\TUZ3zwprpvBS1izr_vOMscG6eQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/amaticsc/v24/TUZyzwprpvBS1izr_vO0DQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\amaticsc\v24\TUZyzwprpvBS1izr_vO0DQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\architectsdaughter\v18\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYdaIsLg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\asap\v26\KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYdaIsLg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/asap/v26/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYkqUsLg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\asap\v26\KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYkqUsLg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/balsamiqsans/v10/P5sEzZiAbNrN8SB3lQQX7Pnc8dk.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\balsamiqsans\v10\P5sEzZiAbNrN8SB3lQQX7Pnc8dk-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/balsamiqsans/v10/P5sZzZiAbNrN8SB3lQQX7PncyWUyBY8.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\balsamiqsans\v10\P5sZzZiAbNrN8SB3lQQX7PncyWUyBY8-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\barlow\v12\7cHpv4kjgoGqM7EPCw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-wc4A.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\barlow\v12\7cHqv4kjgoGqM7E3j-wc4A-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v9/JTUSjIg69CK48gW7PXooxW4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\bebasneue\v9\JTUSjIg69CK48gW7PXooxW4-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bitter/v32/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfCL8.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\bitter\v32\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfCL8-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bitter/v32/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYCL8.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\bitter\v32\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYCL8-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bitter/v32/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YCL8.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\bitter\v32\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YCL8-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cabin/v26/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDL7E.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\cabin\v26\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDL7E-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cabin/v26/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EL7E.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\cabin\v26\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EL7E-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v22/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hAc5W1Q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\cairo\v22\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hAc5W1Q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v22/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-W1Q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\cairo\v22\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-W1Q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjorg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\cormorantgaramond\v16\co3bmX5slCNuHLi8bLeY9MK7whWMhyjorg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v16/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5vuQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\cormorantgaramond\v16\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5vuQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\crimsontext\v19\wlp2gwHKFkZgtmSR3NB0oRJvaA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12Cw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\crimsontext\v19\wlppgwHKFkZgtmSR3NB0oRJX1C12Cw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i0HTQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i0HTQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHTQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHTQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v16/va9B4kDNxMZdWfMOD5VnFK_uQQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\firasans\v16\va9B4kDNxMZdWfMOD5VnFK_uQQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v16/va9B4kDNxMZdWfMOD5VnLK3uQQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\firasans\v16\va9B4kDNxMZdWfMOD5VnLK3uQQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v16/va9E4kDNxMZdWfMOD5VfkA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\firasans\v16\va9E4kDNxMZdWfMOD5VfkA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fjallaone/v13/Yq6R-LCAWCX3-6Ky7FAFnOY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\fjallaone\v13\Yq6R-LCAWCX3-6Ky7FAFnOY-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZlbg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\indieflower\v17\m8JVjfNVeKWVnh3QMuKkFcZlbg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQXME.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQXME-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XXME.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XXME-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50Xew8.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\lato\v23\S6u9w4BMUTPHh50Xew8-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVew8.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\lato\v23\S6u9w4BMUTPHh6UVew8-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\lato\v23\S6uyw4BMUTPHvxk-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v14/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTjYw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\librebaskerville\v14\kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTjYw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0pNe.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\librebaskerville\v14\kmKnZrc3Hgbbcjq75U4uslyuy4kn0pNe-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v13/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KUBw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\librefranklin\v13\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KUBw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v13/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWUBw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\librefranklin\v13\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWUBw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v13/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUBw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\librefranklin\v13\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUBw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9_oU.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\lobster\v28\neILzCirqoswsqX9_oU-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787weuyJG-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/martel/v10/PN_xRfK9oXHga0XtYQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\martel\v10\PN_xRfK9oXHga0XtYQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV3e0ahQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\martel\v10\PN_yRfK9oXHga0XV3e0ahQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV5e8ahQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\martel\v10\PN_yRfK9oXHga0XV5e8ahQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5Oew.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5Oew-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNpXw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52xwNpXw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFpXw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52_wFpXw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew--2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w--2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w--2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mukta/v13/iJWHBXyXfDDVXbF6iFma.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\mukta\v13\iJWHBXyXfDDVXbF6iFma-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mukta/v13/iJWKBXyXfDDVXYnG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\mukta\v13\iJWKBXyXfDDVXYnG-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNb4g.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosans\v27\o-0IIpQlx3QUlC5A4PNb4g-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFlYw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosans\v27\o-0NIpQlx3QUlC5A4PNjXhFlYw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F62fjtqLzI2JPCgQBnw7HFowA.otf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosansjp\v42\-F62fjtqLzI2JPCgQBnw7HFowA-2.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQei0q1A.otf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQei0q1A-2.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v27/Pby7FmXiEBPT4ITbgNA5CgmOalvI7g.otf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosanskr\v27\Pby7FmXiEBPT4ITbgNA5CgmOalvI7g-2.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v27/Pby7FmXiEBPT4ITbgNA5CgmOUlnI7g.otf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosanskr\v27\Pby7FmXiEBPT4ITbgNA5CgmOUlnI7g-2.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosanskr/v27/PbykFmXiEBPT4ITbgNA5Cgm20A.otf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notosanskr\v27\PbykFmXiEBPT4ITbgNA5Cgm20A-2.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoserif/v21/ga6Iaw1J5X9T9RW6j9bNTFA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notoserif\v21\ga6Iaw1J5X9T9RW6j9bNTFA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notoserif/v21/ga6Law1J5X9T9RW6j9bNdOwzTRA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\notoserif\v21\ga6Law1J5X9T9RW6j9bNdOwzTRA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8-BP5q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8-BP5q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8GBv5q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8GBv5q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8WAf5q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc8WAf5q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc9yAv5q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunitosans\v12\pe03MImSLYBIv1o4X1M8cc9yAv5q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cfe6.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\nunitosans\v12\pe0qMImSLYBIv1o4X1M8cfe6-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oldstandardtt/v18/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oldstandardtt\v18\MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oldstandardtt/v18/MwQubh3o1vLImiwAVvYawgcf2eVurQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oldstandardtt\v18\MwQubh3o1vLImiwAVvYawgcf2eVurQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v12/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrOQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\overpass\v12\qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TrOQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v12/qFda35WCmI96Ajtm83upeyoaX6QPnlo6VfTrOQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\overpass\v12\qFda35WCmI96Ajtm83upeyoaX6QPnlo6VfTrOQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v12/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrOQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\overpass\v12\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrOQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxygen/v15/2sDcZG1Wl4LcnbuCJW8Dbw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oxygen\v15\2sDcZG1Wl4LcnbuCJW8Dbw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxygen/v15/2sDcZG1Wl4LcnbuCNWgDbw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oxygen\v15\2sDcZG1Wl4LcnbuCNWgDbw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4Lcnbu6iQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\oxygen\v15\2sDfZG1Wl4Lcnbu6iQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ96A.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\pacifico\v22\FwZY7-Qmy14u9lezJ96A-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21llEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xlEA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15lEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptsans\v17\jizaRExUiTo99u79P0U-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptsans\v17\jizfRExUiTo99u79B_mh4Ok-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v17/BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptsansnarrow\v17\BngRUXNadjH0qYEzV7ab-oWlsYCB-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v17/BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptsansnarrow\v17\BngSUXNadjH0qYEzV7ab-oWlsbg95DiC-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRSQgYoZZY2vCFuvAnt65qV.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptserif\v17\EJRSQgYoZZY2vCFuvAnt65qV-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRVQgYoZZY2vCFuvDFR.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptserif\v17\EJRVQgYoZZY2vCFuvDFR-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meKCM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meKCM-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-59U.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-59U-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v23/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\rubik\v23\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\rubik\v23\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\rubik\v23\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\shadowsintolight\v15\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signika/v20/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHJbG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\signika\v20\vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHJbG-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signika/v20/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG5bG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\signika\v20\vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG5bG-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/slabo27px/v12/mFT0WbgBwKPR_Z4hGN2qsxg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\slabo27px\v12\mFT0WbgBwKPR_Z4hGN2qsxg-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXhM4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXhM4-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v15/neIQzD-0qpwxpaWvjeD0X88SAOeaiXM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourceserifpro\v15\neIQzD-0qpwxpaWvjeD0X88SAOeaiXM-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v15/neIXzD-0qpwxpaWvjeD0X88SAOeasc8bhSs.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourceserifpro\v15\neIXzD-0qpwxpaWvjeD0X88SAOeasc8bhSs-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v15/neIXzD-0qpwxpaWvjeD0X88SAOeasfcZhSs.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourceserifpro\v15\neIXzD-0qpwxpaWvjeD0X88SAOeasfcZhSs-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1rzY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\tajawal\v9\Iura6YBj_oCad4k1rzY-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkLrY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\tajawal\v9\Iurf6YBj_oCad4k1l4qkLrY-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmLrY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\tajawal\v9\Iurf6YBj_oCad4k1l7KmLrY-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffEDBKIw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffEDBKIw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fRMQ-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig-2.ttf
+Content Type: font/ttf
+
+Uri: https://images.groovetech.io/HOJlwhsV-a58JnUYR_pler7IKmtHLB-jgCg6kOBMfSs/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzLzU1NWQzMzY3LWYxNTQtNGU2Ni05YmRhLTI5ODlmNjIxNGE0Ni8xNjY3NDE0MzMyX0FscGlsZWFuTFBJbWFnZTIucG5n.webp
+File Name: C:\Downloaded Web Sites\feel-better-today.com\HOJlwhsV-a58JnUYR_pler7IKmtHLB-jgCg6kOBMfSs\rsfit000\gno00\c00\1667414332_AlpileanLPImage2-1.webp
+Content Type: image/webp
+
+Uri: https://images.groovetech.io/mxSCiQDhBiU1h-Ur5YyfLWVbhRpd-2cCO3TXZaDxbkc/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzLzU1NWQzMzY3LWYxNTQtNGU2Ni05YmRhLTI5ODlmNjIxNGE0Ni8xNjYzNzE1MTU5X0NsaWNrSGVyZUJ1dHRvbi53ZWJw.webp
+File Name: C:\Downloaded Web Sites\feel-better-today.com\mxSCiQDhBiU1h-Ur5YyfLWVbhRpd-2cCO3TXZaDxbkc\rsfit000\gno00\c00\1663715159_ClickHereButton-1.webp
+Content Type: image/webp
+
+Uri: https://images.groovetech.io/Ptbei_NbgzxZY2lqtHdMLDz_OY9TrzLBtooBGOY4HFI/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzLzU1NWQzMzY3LWYxNTQtNGU2Ni05YmRhLTI5ODlmNjIxNGE0Ni8xNjMzNTY3ODYzX0Zhdmljb24ucG5n.webp
+File Name: C:\Downloaded Web Sites\feel-better-today.com\Ptbei_NbgzxZY2lqtHdMLDz_OY9TrzLBtooBGOY4HFI\rsfit000\gno00\c00\1633567863_Favicon-1.webp
+Content Type: image/webp
+
+Uri: https://images.groovetech.io/VzftbWvy1Sa3pdsEJ2oGcyby0jPm1NYLyZtmGOsLIWk/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzLzU1NWQzMzY3LWYxNTQtNGU2Ni05YmRhLTI5ODlmNjIxNGE0Ni8xNjMzNDg5NzYwX1dlYnNpdGUgTG9nbyBGZWVsIEJldHRlciBUb2RheS5wbmc.webp
+File Name: C:\Downloaded Web Sites\feel-better-today.com\VzftbWvy1Sa3pdsEJ2oGcyby0jPm1NYLyZtmGOsLIWk\rsfit000\gno00\c00\1633489760_Website Logo Feel Better Today-1.webp
+Content Type: image/webp
+
+Uri: https://kit.fontawesome.com/e7647a48d4.js
+File Name: C:\Downloaded Web Sites\feel-better-today.com\e7647a48d4-2.js
+Content Type: text/javascript
+
+Uri: https://matomo.groovetech.io/matomo.php?idsite=4&rec=1
+File Name: C:\Downloaded Web Sites\feel-better-today.com\matomo-2.php
+Content Type: image/gif
+
+Uri: https://www.xiconeditor.com/image/icons/loading.gif
+File Name: C:\Downloaded Web Sites\feel-better-today.com\image\icons\loading-2.gif
+Content Type: image/gif
+
+y.com\s\ptsansnarrow\v17\BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRSQgYoZZY2vCFuvAnt65qV.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptserif\v17\EJRSQgYoZZY2vCFuvAnt65qV.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRVQgYoZZY2vCFuvDFR.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ptserif\v17\EJRVQgYoZZY2vCFuvDFR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meKCM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meKCM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-59U.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-59U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v23/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\rubik\v23\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\rubik\v23\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\rubik\v23\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\shadowsintolight\v15\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signika/v20/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHJbG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\signika\v20\vEFO2_JTCgwQ5ejvMV0O96D01E8J0tJXHJbG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signika/v20/vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG5bG.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\signika\v20\vEFO2_JTCgwQ5ejvMV0O96D01E8J0tKwG5bG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/slabo27px/v12/mFT0WbgBwKPR_Z4hGN2qsxg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\slabo27px\v12\mFT0WbgBwKPR_Z4hGN2qsxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXhM4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DGWXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v15/neIQzD-0qpwxpaWvjeD0X88SAOeaiXM.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourceserifpro\v15\neIQzD-0qpwxpaWvjeD0X88SAOeaiXM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v15/neIXzD-0qpwxpaWvjeD0X88SAOeasc8bhSs.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourceserifpro\v15\neIXzD-0qpwxpaWvjeD0X88SAOeasc8bhSs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v15/neIXzD-0qpwxpaWvjeD0X88SAOeasfcZhSs.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\sourceserifpro\v15\neIXzD-0qpwxpaWvjeD0X88SAOeasfcZhSs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iura6YBj_oCad4k1rzY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\tajawal\v9\Iura6YBj_oCad4k1rzY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l4qkLrY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\tajawal\v9\Iurf6YBj_oCad4k1l4qkLrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tajawal/v9/Iurf6YBj_oCad4k1l7KmLrY.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\tajawal\v9\Iurf6YBj_oCad4k1l7KmLrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffEDBKIw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffEDBKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/e7647a48d4.js
+File Name: C:\Downloaded Web Sites\feel-better-today.com\e7647a48d4.js
+Content Type: text/javascript
+
+Uri: https://matomo.groovetech.io/matomo.php?idsite=4&rec=1
+File Name: C:\Downloaded Web Sites\feel-better-today.com\matomo.php
+Content Type: image/gif
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/css/all.css
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\feel-better-today.com\releases\v5.13.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.xiconeditor.com/image/icons/loading.gif
+File Name: C:\Downloaded Web Sites\feel-better-today.com\image\icons\loading.gif
+Content Type: image/gif
+
